@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=r0b2g1t&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b2g1t&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **r0b2g1t/r0b2g1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
