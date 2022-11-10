@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0b2g1t&color=darkgreen" alt="r0b2g1t" /> </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=r0b2g1t&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b2g1t&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
